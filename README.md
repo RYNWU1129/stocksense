@@ -14,7 +14,7 @@ Python • Telethon • n8n • OpenAI • Telegram Bot API
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/stocksense.git
+git clone https://github.com/RYNWU1129/stocksense.git
 cd stocksense/src/telegram-listener
 python3 -m venv venv
 source venv/bin/activate
